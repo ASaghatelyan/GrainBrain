@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949012975588",
+    "project_id": "grainbrain-48320",
+    "storage_bucket": "grainbrain-48320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949012975588:android:0b343de815473a236301f1",
+        "android_client_info": {
+          "package_name": "com.grainbrain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949012975588-5amdiebhubkgb92gv65nkkp645vbusf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOiKV0zgHD2GCKp_IXBmffQBQ1jvUacKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949012975588-5amdiebhubkgb92gv65nkkp645vbusf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

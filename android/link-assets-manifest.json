@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "app/assets/font/Montserrat-Regular.ttf",
+      "sha1": "d25b35242deb1c6ff888b8162ca2aacc356d3899"
+    },
+    {
+      "path": "app/assets/font/Mulish-Regular.ttf",
+      "sha1": "08b7bb2d8d140a7efb805310496f7556e187cd62"
+    },
+    {
+      "path": "app/assets/font/OpenSans-Regular.ttf",
+      "sha1": "b334209f43426374b709e42e3185dc46478a96ba"
+    }
+  ]
+}
